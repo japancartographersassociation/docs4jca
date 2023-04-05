@@ -1,5 +1,11 @@
 # docs4jca 日本地図学会関連ドキュメント置き場
 
+## 会則
+別リポジトリ [constitution4jcacj](https://github.com/japancartographersassociation/constitution4jcacj) に展開しました。
+
+## 年会費払込用紙
+
+
 ## 専門部会設置申込書
 新規に専門部会設置を申し出る方は、「専門部会設置申込」をダウンロードし、必要事項を記入の上、事務局へ提出してください。
 
